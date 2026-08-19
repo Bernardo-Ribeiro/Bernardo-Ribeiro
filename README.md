@@ -1,40 +1,140 @@
-# 👋 Hi, I'm Bernardo!
+<div align="center">
 
-I'm a **Developer** passionate about technology, currently studying Systems Analysis and Development at IFSul – Santana do Livramento campus, and working in the IT department at IFSul. I hold a technical degree in computer support and maintenance from Escola Estadual de Ensino Básico General Neto, also work as a **gamedev**, and I'm exploring the world of **OpenGL shaders**.
+  # <img src="https://img.icons8.com/fluency/48/hand.png" width="36" height="36" /> Hi there, I'm Bernardo Ribeiro
+  ### <img src="https://img.icons8.com/fluency/48/laptop-coding.png" width="20" height="20" /> Software Developer &bull; <img src="https://img.icons8.com/fluency/48/controller.png" width="20" height="20" /> Game Developer &bull; <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="20" height="20" /> Shaders & Computer Graphics
 
----
+  <p align="center">
+    <a href="https://www.linkedin.com/in/bernardo-ribeiro-0601a8302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:bernardo.ribeiro@outlook.com.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Bernardo-Ribeiro&color=8A2BE2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  </p>
 
-## 🚀 Technologies & Tools
-
-- **Languages:** Python, Java, JavaFX, HTML, CSS, JavaScript, Dart, Flutter, GLSL, OpenGL, SQL
-- **Interests:** Game development, graphic design, UI/UX, web and mobile systems, graphics programming (shaders), 3D modeling
-- **Tools:** CorelDraw, Photoshop, VSCode, Git, Blender, Range Engine
-
----
-
-## 💡 Featured Projects
-
-- [Hotel System](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) — Complete hotel management system
-- [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) — Library of customizable graphical components
-- [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) — Website for selling projects made by [Naut Play](https://github.com/NautPlay)
+</div>
 
 ---
 
-## 👨‍🎓 About Me
+### <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" height="28" /> About Me
 
-My name is Bernardo, I'm passionate about programming and a guitarist in my free time. I love learning new things, creating creative solutions, and contributing to open-source projects. I'm always looking for challenges that unite programming, design, and creativity.
-
----
-
-## 📫 Contact
-
-- **Email:** bernardo.ribeiro@outlook.com.br
-- **LinkedIn:** [linkedin.com/bernardo-ribeiro](https://www.linkedin.com/in/bernardo-ribeiro-0601a8302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="18" height="18" /> Studying **Systems Analysis and Development** at **IFSul** (Santana do Livramento campus).
+- <img src="https://img.icons8.com/fluency/48/briefcase.png" width="18" height="18" /> Working in the **Information Technology (IT) department** at **IFSul**.
+- <img src="https://img.icons8.com/fluency/48/wrench.png" width="18" height="18" /> Technical degree in **Computer Maintenance and Support** (EEEB General Neto).
+- <img src="https://img.icons8.com/fluency/48/controller.png" width="18" height="18" /> Passionate about **Game Development**, **Shaders (GLSL / OpenGL)**, **Range Engine**, and **Blender**.
+- <img src="https://img.icons8.com/fluency/48/guitar.png" width="18" height="18" /> Guitarist in my free time, open-source enthusiast, and focused on creative solutions combining code and design!
 
 ---
 
-> “For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.” – Ephesians 2:8
+### <img src="https://img.icons8.com/fluency/48/stack.png" width="28" height="28" /> Tech Stack & Skills
+
+<div align="center">
+
+#### <img src="https://img.icons8.com/fluency/48/source-code.png" width="20" height="20" /> Languages & Core
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### <img src="https://img.icons8.com/fluency/48/layers.png" width="20" height="20" /> Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-4285F4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### <img src="https://img.icons8.com/fluency/48/controller.png" width="20" height="20" /> Game Dev, Graphics & 3D
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Range Engine](https://img.shields.io/badge/Range_Engine-E02424?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/Corel_Draw-009933?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+#### <img src="https://img.icons8.com/fluency/48/database.png" width="20" height="20" /> Databases, DevOps & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-![Bernardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&theme=radical)
+### <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" height="28" /> Featured Projects
+
+<div align="center">
+
+| <img src="https://img.icons8.com/fluency/48/money-bag.png" width="18" height="18" /> [Gerenciador de Orçamentos](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="18" height="18" /> [Filters & Materials Shaders](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| :---: | :---: |
+| [![Gerenciador-de-Orcamentos](./profile/pin-gerenciador-de-orcamentos.svg)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](./profile/pin-filters-shaders.svg)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| Management and tracking system for quotes, budgets, and service orders. | Collection of GLSL post-processing shaders, advanced materials, and visual filters for Range Engine / UPBGE. |
+
+| <img src="https://img.icons8.com/fluency/48/building.png" width="18" height="18" /> [Sistema Hotel](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | <img src="https://img.icons8.com/fluency/48/puzzle.png" width="18" height="18" /> [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| :---: | :---: |
+| [![Sistema-Hotel](./profile/pin-sistema-hotel.svg)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](./profile/pin-bgui-range.svg)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| Complete desktop hotel management system for booking, guest records, and room control. | Customizable graphical user interface (GUI) component library for Range Engine. |
+
+| <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" height="18" /> [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| :---: |
+| [![Naut-Store](./profile/pin-naut-store.svg)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| E-commerce web platform developed for showcasing and selling [Naut Play](https://github.com/NautPlay) projects. |
+
+</div>
+
+---
+
+### <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" height="28" /> GitHub Statistics & Activity
+
+<div align="center">
+
+  <img height="175em" src="./profile/stats.svg" alt="Bernardo's GitHub Stats" />
+  <img height="175em" src="./profile/top-langs.svg" alt="Top Languages" />
+
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./profile/trophies.svg" alt="GitHub Trophies" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="./profile/activity-graph.svg" alt="Activity Graph" />
+  </a>
+
+</div>
+
+---
+
+### <img src="https://img.icons8.com/fluency/48/speech-bubble-with-dots.png" width="28" height="28" /> Connect with Me
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/bernardo-ribeiro-0601a8302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:bernardo.ribeiro@outlook.com.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *“For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.”* — **Ephesians 2:8**
+
+</div>
+
+
+

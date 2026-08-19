@@ -1,0 +1,99 @@
+﻿name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa diariamente a meia-noite (UTC)
+  workflow_dispatch: # Permite execucao manual na aba Actions
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/stats.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure profile directory exists
+        run: mkdir -p profile
+
+      # 1. GitHub Stats Principal
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Linguagens Mais Usadas
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Cards dos Repositorios em Destaque (Pins)
+      - name: Generate Pin - Gerenciador de Orcamentos
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Gerenciador-de-Orcamentos&theme=radical
+          path: profile/pin-gerenciador-de-orcamentos.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - Filters & Shaders
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Filters_Materials-Shaders-Range-Engine&theme=radical
+          path: profile/pin-filters-shaders.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - Sistema Hotel
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Sistema-Hotel&theme=radical
+          path: profile/pin-sistema-hotel.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - BGUI Range
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=BGUI-Range&theme=radical
+          path: profile/pin-bgui-range.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin - Naut Store
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Naut-Store&theme=radical
+          path: profile/pin-naut-store.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Streak, Trofeus e Activity Graph
+      - name: Fetch Streak, Trophies and Activity Graph
+        run: |
+          curl -s --max-time 15 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical" -o profile/streak.svg || true
+          curl -s --max-time 15 "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=radical&row=1&column=7&margin-w=4" -o profile/trophies.svg || true
+          curl -s --max-time 15 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=react-dark&bg_color=141321&color=fe428e&line=a855f7&point=f8df1d&area=true&hide_border=true" -o profile/activity-graph.svg || true
+
+      # 5. Commit e Push dos SVGs atualizados
+      - name: Commit and push generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore(profile): update generated SVG cards [skip ci]" || exit 0
+          git push
