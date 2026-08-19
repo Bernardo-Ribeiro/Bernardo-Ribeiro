@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/bernardo-ribeiro-0601a8302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:bernardo.ribeiro@outlook.com.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Bernardo-Ribeiro&color=8A2BE2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Bernardo-Ribeiro&color=FF0000&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   </p>
 
 </div>
@@ -68,17 +68,17 @@
 
 | <img src="https://img.icons8.com/fluency/48/money-bag.png" width="18" height="18" /> [Gerenciador de Orçamentos](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="18" height="18" /> [Filters & Materials Shaders](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | :---: | :---: |
-| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=radical&description=A+modern+system+for+generating+and+managing+customer+budgets+and+service+orders.)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=radical&description=Collection+of+GLSL+post-processing+shaders+and+custom+materials+for+Range+Engine.)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=youtube-dark&description=A+modern+system+for+generating+and+managing+customer+budgets+and+service+orders.)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=youtube-dark&description=Collection+of+GLSL+post-processing+shaders+and+custom+materials+for+Range+Engine.)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | Management and tracking system for quotes, budgets, and service orders. | Collection of GLSL post-processing shaders, advanced materials, and visual filters for Range Engine / UPBGE. |
 
 | <img src="https://img.icons8.com/fluency/48/building.png" width="18" height="18" /> [Sistema Hotel](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | <img src="https://img.icons8.com/fluency/48/puzzle.png" width="18" height="18" /> [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | :---: | :---: |
-| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=radical&description=Desktop+hotel+management+system+for+reservations%2C+guests%2C+and+room+billing.)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=radical&description=Modular+and+customizable+GUI+component+library+for+Range+Engine+games.)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=youtube-dark&description=Desktop+hotel+management+system+for+reservations%2C+guests%2C+and+room+billing.)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=youtube-dark&description=Modular+and+customizable+GUI+component+library+for+Range+Engine+games.)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | Complete desktop hotel management system for booking, guest records, and room control. | Customizable graphical user interface (GUI) component library for Range Engine. |
 
 | <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" height="18" /> [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | :---: |
-| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=radical&description=E-commerce+web+platform+for+showcasing+and+selling+Naut+Play+digital+assets.)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=youtube-dark&description=E-commerce+web+platform+for+showcasing+and+selling+Naut+Play+digital+assets.)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | E-commerce web platform developed for showcasing and selling [Naut Play](https://github.com/NautPlay) projects. |
 
 </div>
@@ -89,25 +89,25 @@
 
 <div align="center">
 
-  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
-  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bernardo-Ribeiro&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&theme=youtube-dark&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bernardo-Ribeiro&layout=compact&theme=youtube-dark" alt="Top Languages" />
 
   <br><br>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Bernardo-Ribeiro&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Bernardo-Ribeiro&theme=youtube-dark" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=Bernardo-Ribeiro&theme=radical&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Bernardo-Ribeiro&theme=youtube-dark&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Ribeiro&theme=react-dark&bg_color=141321&color=fe428e&line=a855f7&point=f8df1d&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Ribeiro&theme=youtube-dark" alt="Activity Graph" />
   </a>
 
 </div>
