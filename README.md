@@ -68,17 +68,17 @@
 
 | <img src="https://img.icons8.com/fluency/48/money-bag.png" width="18" height="18" /> [Gerenciador de Orçamentos](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="18" height="18" /> [Filters & Materials Shaders](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | :---: | :---: |
-| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=youtube-dark&description=A+modern+system+for+generating+and+managing+customer+budgets+and+service+orders.)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=youtube-dark&description=Collection+of+GLSL+post-processing+shaders+and+custom+materials+for+Range+Engine.)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&description=A+modern+system+for+generating+and+managing+customer+budgets+and+service+orders.)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&description=Collection+of+GLSL+post-processing+shaders+and+custom+materials+for+Range+Engine.)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | Management and tracking system for quotes, budgets, and service orders. | Collection of GLSL post-processing shaders, advanced materials, and visual filters for Range Engine / UPBGE. |
 
 | <img src="https://img.icons8.com/fluency/48/building.png" width="18" height="18" /> [Sistema Hotel](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | <img src="https://img.icons8.com/fluency/48/puzzle.png" width="18" height="18" /> [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | :---: | :---: |
-| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=youtube-dark&description=Desktop+hotel+management+system+for+reservations%2C+guests%2C+and+room+billing.)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=youtube-dark&description=Modular+and+customizable+GUI+component+library+for+Range+Engine+games.)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&description=Desktop+hotel+management+system+for+reservations%2C+guests%2C+and+room+billing.)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&description=Modular+and+customizable+GUI+component+library+for+Range+Engine+games.)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | Complete desktop hotel management system for booking, guest records, and room control. | Customizable graphical user interface (GUI) component library for Range Engine. |
 
 | <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" height="18" /> [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | :---: |
-| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=youtube-dark&description=E-commerce+web+platform+for+showcasing+and+selling+Naut+Play+digital+assets.)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&description=E-commerce+web+platform+for+showcasing+and+selling+Naut+Play+digital+assets.)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | E-commerce web platform developed for showcasing and selling [Naut Play](https://github.com/NautPlay) projects. |
 
 </div>
@@ -89,8 +89,8 @@
 
 <div align="center">
 
-  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&theme=youtube-dark&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
-  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bernardo-Ribeiro&layout=compact&theme=youtube-dark" alt="Top Languages" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff&icon_color=ff0000&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bernardo-Ribeiro&layout=compact&bg_color=0f0f0f&border_color=272727&title_color=ff0000&text_color=ffffff" alt="Top Languages" />
 
   <br><br>
 
@@ -101,13 +101,13 @@
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=Bernardo-Ribeiro&theme=youtube-dark&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Bernardo-Ribeiro&theme=darkhub&row=1&column=7&margin-w=4&no-bg=false" alt="GitHub Trophies" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Ribeiro&theme=youtube-dark" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Ribeiro&bg_color=0f0f0f&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&title_color=ff0000&border_color=272727" alt="Activity Graph" />
   </a>
 
 </div>
