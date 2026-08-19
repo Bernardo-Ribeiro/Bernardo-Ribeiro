@@ -85,9 +85,9 @@ jobs:
       # 4. Streak, Trofeus e Activity Graph
       - name: Fetch Streak, Trophies and Activity Graph
         run: |
-          curl -s --max-time 15 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical" -o profile/streak.svg || true
-          curl -s --max-time 15 "https://github-trophies.devomb.com/?username=${{ github.repository_owner }}&theme=radical&row=1&column=7&margin-w=4" -o profile/trophies.svg || true
-          curl -s --max-time 15 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=react-dark&bg_color=141321&color=fe428e&line=a855f7&point=f8df1d&area=true&hide_border=true" -o profile/activity-graph.svg || true
+          curl -s -A "Mozilla/5.0" --max-time 15 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical" -o profile/streak.svg || true
+          curl -s -A "Mozilla/5.0" --max-time 15 "https://github-trophies.devomb.com/?username=${{ github.repository_owner }}&theme=radical&row=1&column=7&margin-w=4" -o profile/trophies.svg || true
+          curl -s -A "Mozilla/5.0" --max-time 15 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=react-dark&bg_color=141321&color=fe428e&line=a855f7&point=f8df1d&area=true&hide_border=true" -o profile/activity-graph.svg || true
 
       # 5. Commit e Push dos SVGs atualizados
       - name: Commit and push generated SVGs
