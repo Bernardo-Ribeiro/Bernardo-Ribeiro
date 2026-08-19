@@ -68,17 +68,17 @@
 
 | <img src="https://img.icons8.com/fluency/48/money-bag.png" width="18" height="18" /> [Gerenciador de Orçamentos](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="18" height="18" /> [Filters & Materials Shaders](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | :---: | :---: |
-| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=radical)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=radical)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=radical&description=A+modern+system+for+generating+and+managing+customer+budgets+and+service+orders.)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=radical&description=Collection+of+GLSL+post-processing+shaders+and+custom+materials+for+Range+Engine.)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | Management and tracking system for quotes, budgets, and service orders. | Collection of GLSL post-processing shaders, advanced materials, and visual filters for Range Engine / UPBGE. |
 
 | <img src="https://img.icons8.com/fluency/48/building.png" width="18" height="18" /> [Sistema Hotel](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | <img src="https://img.icons8.com/fluency/48/puzzle.png" width="18" height="18" /> [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | :---: | :---: |
-| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=radical)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=radical)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=radical&description=Desktop+hotel+management+system+for+reservations%2C+guests%2C+and+room+billing.)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=radical&description=Modular+and+customizable+GUI+component+library+for+Range+Engine+games.)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | Complete desktop hotel management system for booking, guest records, and room control. | Customizable graphical user interface (GUI) component library for Range Engine. |
 
 | <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" height="18" /> [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | :---: |
-| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=radical)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=radical&description=E-commerce+web+platform+for+showcasing+and+selling+Naut+Play+digital+assets.)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | E-commerce web platform developed for showcasing and selling [Naut Play](https://github.com/NautPlay) projects. |
 
 </div>
