@@ -68,17 +68,17 @@
 
 | <img src="https://img.icons8.com/fluency/48/money-bag.png" width="18" height="18" /> [Gerenciador de Orçamentos](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | <img src="https://img.icons8.com/fluency/48/paint-palette.png" width="18" height="18" /> [Filters & Materials Shaders](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | :---: | :---: |
-| [![Gerenciador-de-Orcamentos](./profile/pin-gerenciador-de-orcamentos.svg)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](./profile/pin-filters-shaders.svg)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
+| [![Gerenciador-de-Orcamentos](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Gerenciador-de-Orcamentos&theme=radical)](https://github.com/Bernardo-Ribeiro/Gerenciador-de-Orcamentos) | [![Filters_Materials-Shaders-Range-Engine](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Filters_Materials-Shaders-Range-Engine&theme=radical)](https://github.com/Bernardo-Ribeiro/Filters_Materials-Shaders-Range-Engine) |
 | Management and tracking system for quotes, budgets, and service orders. | Collection of GLSL post-processing shaders, advanced materials, and visual filters for Range Engine / UPBGE. |
 
 | <img src="https://img.icons8.com/fluency/48/building.png" width="18" height="18" /> [Sistema Hotel](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | <img src="https://img.icons8.com/fluency/48/puzzle.png" width="18" height="18" /> [BGUI-Range](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | :---: | :---: |
-| [![Sistema-Hotel](./profile/pin-sistema-hotel.svg)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](./profile/pin-bgui-range.svg)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
+| [![Sistema-Hotel](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Sistema-Hotel&theme=radical)](https://github.com/Bernardo-Ribeiro/Sistema-Hotel) | [![BGUI-Range](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=BGUI-Range&theme=radical)](https://github.com/Bernardo-Ribeiro/BGUI-Range) |
 | Complete desktop hotel management system for booking, guest records, and room control. | Customizable graphical user interface (GUI) component library for Range Engine. |
 
 | <img src="https://img.icons8.com/fluency/48/shopping-bag.png" width="18" height="18" /> [Naut-Store](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | :---: |
-| [![Naut-Store](./profile/pin-naut-store.svg)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
+| [![Naut-Store](https://github-stats-extended.vercel.app/api/pin/?username=Bernardo-Ribeiro&repo=Naut-Store&theme=radical)](https://github.com/Bernardo-Ribeiro/Naut-Store) |
 | E-commerce web platform developed for showcasing and selling [Naut Play](https://github.com/NautPlay) projects. |
 
 </div>
@@ -89,25 +89,25 @@
 
 <div align="center">
 
-  <img height="175em" src="./profile/stats.svg" alt="Bernardo's GitHub Stats" />
-  <img height="175em" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=Bernardo-Ribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bernardo's GitHub Stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bernardo-Ribeiro&layout=compact&theme=radical" alt="Top Languages" />
 
   <br><br>
 
   <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Bernardo-Ribeiro&theme=radical" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./profile/trophies.svg" alt="GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Bernardo-Ribeiro&theme=radical&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="./profile/activity-graph.svg" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Ribeiro&theme=react-dark&bg_color=141321&color=fe428e&line=a855f7&point=f8df1d&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 
 </div>
